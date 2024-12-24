@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 24px 0;
+    color: white;
+    background: hsl(221, 88%, 13%);
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.banner {
+    margin-bottom: 48px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.puppies {
+    display: flex;
+    margin-bottom: 16px;
+    padding: 32px;
+}
+
+.first {
+    width: 33%;
+}
+
+.second {
+    width: 33%;
+    margin: 0 10px 0 10px;
+    background: rgb(103, 44, 44);
+    color: white;
+    padding: 48px 32px 48px 32px;
+    font-size: 20px;
+}
+
+.header-2 {
+    text-align: center;
+}
+
+.third {
+    width: 33%;
+}
+
+footer {
+    background: hsl(221, 88%, 13%);
+}
+
+
+/* footer p {
+    padding: 0 32px;
+    text-align: center;
+} */
+
+.first img {
+    width: 100%;
+}
+
+.contaner {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.contaner-1 {
+    display: flex;
+    gap: 62px;
+    margin-top: 16px;
+    padding: 32px;
+}
+
+.best {
+    padding: 48px 0;
+    text-align: center;
+}
+
+.best p {
+    color: white;
+    font-size: 24px;
+}
